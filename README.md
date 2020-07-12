@@ -1,3 +1,10 @@
+this project is being built with a tutorial from the Stephen Grider Modern React with Redux [2020 Update] Course...
+
+HIGHLY RECOMMEND the udemy course
+
+Actual GH repo for reference is here: StephenGrider/redux-code
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
